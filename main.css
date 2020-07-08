@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Oxygen", sans-serif;
+}
+
+nav {
+  background: rgb(255, 135, 25);
+  padding: 6pt;
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  color: white;
+  background: rgb(225, 120, 5);
+  padding: 6pt 12pt;
+  margin: 0 12pt;
+}
+
+.title {
+  padding: 12pt;
+  color: white;
+  background: rgb(255, 135, 25);
+  text-align: center;
+}
+
+img {
+  width: 40%;
+  margin: 6pt 30%;
+}
+
+p {
+  margin: 6pt 12pt;
+}
+
+h2 {
+  text-align: center;
+  margin: 6pt;
+}
+
+.kontakta-oss,
+.besök-oss {
+  text-align: center;
+}
